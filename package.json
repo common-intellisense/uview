@@ -1,5 +1,5 @@
 {
-  "name": "@common-intellisense/uview1",
+  "name": "@common-intellisense/uview2",
   "type": "module",
   "version": "0.0.1",
   "packageManager": "pnpm@7.33.7",
@@ -7,12 +7,12 @@
   "author": "Simon He",
   "license": "MIT",
   "funding": "https://github.com/sponsors/Simon-He95",
-  "homepage": "https://github.com/common-intellisense/uview#readme",
+  "homepage": "https://github.com/common-intellisense/uview2#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/common-intellisense/uview.git"
+    "url": "git+https://github.com/common-intellisense/uview2.git"
   },
-  "bugs": "https://github.com/common-intellisense/uview/issues",
+  "bugs": "https://github.com/common-intellisense/uview2/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
